@@ -22,5 +22,5 @@ for (int i = from; i <= to; i++)
     }   
 }
 
-double avg = (double)sum / count;
-Console.WriteLine("Avarage: {0}", avg);
+double Avarage = (double)sum / count;
+Console.WriteLine("Avarage: {0}", avarage);
